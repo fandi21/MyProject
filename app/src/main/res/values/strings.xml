@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyProject</string>
+
+    <!-- Title and Description -->
+    <string name="slide_1_title">Bus Ticket</string>
+    <string name="slide_1_desc">Explore the most attractive deal in bus ticket booking</string>
+
+    <string name="slide_2_title">Flight Ticket</string>
+    <string name="slide_2_desc">Explore the most attractive deal in flight ticket booking</string>
+
+    <string name="slide_3_title">Train Ticket</string>
+    <string name="slide_3_desc">Explore the most attractive deal in train ticket booking</string>
+
+    <string name="slide_4_title">Movie Ticket</string>
+    <string name="slide_4_desc">Explore the most attractive deal in movie ticket booking</string>
+
+    <string name="my_preference">com.vandee.MyProject.MyPref</string>
+    <string name="my_preference_key">com.vandee.MyProject.MyPrefKey</string>
+</resources>
